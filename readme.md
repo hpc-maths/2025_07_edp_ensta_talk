@@ -1,1 +1,1 @@
-Lien vers les slidess : https://hpc-maths.github.io/2025_07_edp_ensta_talk
+Link to talk : https://hpc-maths.github.io/2025_07_edp_ensta_talk
