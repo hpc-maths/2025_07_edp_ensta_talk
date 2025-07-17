@@ -12,7 +12,8 @@ resources:
 highlight-style: github
 footer: Journée EDP et Analyse Numérique &nbsp;&nbsp; <img width="5%" src="figures/by-sa.png"/> &nbsp;&nbsp; 10 July 2025
 
-
+ 
+ 
 ---
 
 ```{=html}
